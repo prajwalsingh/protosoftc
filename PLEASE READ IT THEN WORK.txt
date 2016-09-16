@@ -1,0 +1,1 @@
+create folder in C directory with this name  "PSOFT" and then run Protosoft.exe
